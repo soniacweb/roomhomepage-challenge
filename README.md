@@ -2,7 +2,7 @@
 
 ![Design preview for the Room homepage coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Objective! 👋
 
 Thanks for checking out this front-end coding challenge.
 
